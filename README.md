@@ -6,3 +6,6 @@ It moves the mouse slightly and clicks either right or left mouse button. This i
 You can temporarely enable or disable usig the capslock key. The program can be minimized to windows tray and will keep working even without a mouse being connected.
 
 The code is not the prettiest but it works. You can also download the executable. If you want to compile yourself download the code and images and compile using SciTE.
+
+![Screenshot of Anti-AFK](https://github.com/MWestenberg/Lost-Ark-Anti-AFK/blob/main/screenshots/screenshot.jpg)
+
