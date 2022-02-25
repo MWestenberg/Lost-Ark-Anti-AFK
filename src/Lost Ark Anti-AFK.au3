@@ -99,7 +99,7 @@ Func Main()
 	$onOff = GUICtrlCreateGraphic(15, 449, 5,5)
 	GUICtrlSetGraphic($onOff, $GUI_GR_MOVE, 5, 5)
 	GUICtrlSetGraphic($onOff, $GUI_GR_COLOR, $COLOR_RED, $COLOR_RED)
-    GUICtrlSetGraphic($onOff, $GUI_GR_PIE, 2.5, 2.5, 5, 0,360)
+    	GUICtrlSetGraphic($onOff, $GUI_GR_PIE, 2.5, 2.5, 5, 0,360)
 
 	Local $enabledText = ($state = True) ? "Anti-AFK is enabled" : "Anti-AFK is disabled"
 
